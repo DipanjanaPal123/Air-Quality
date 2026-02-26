@@ -28,3 +28,15 @@ A responsive web application that shows real-time Air Quality Index (AQI) data u
 ---
 
 ## 📂 Project Structure
+```
+index.html
+style.css
+script.js
+countries.js
+```
+## ⚙️ How to Run
+
+1. Download or clone this repository
+2. Open `index.html` in your browser
+3. Enter location details
+4. View AQI data
